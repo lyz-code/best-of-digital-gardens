@@ -13,6 +13,8 @@ configuration:
   project_dead_months: 99999  # "dead" is a somewhat strong assumption, so we avoid making it
   min_description_length: 0
   max_description_length: 999999
+  generate_legend: false
+  generate_toc: false
 
 categories:
   - category: generic
