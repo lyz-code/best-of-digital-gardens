@@ -1,5 +1,4 @@
 ---
-# Based on https://github.com/best-of-lists/best-of-update-action/blob/v0.8.5/workflows/update-best-of-list.yml
 name: directly-update-best-of-list
 
 on:  # yamllint disable-line rule:truthy
@@ -37,7 +36,7 @@ jobs:
           git diff-index --quiet HEAD \
             || git commit -m "chore: update README.md"
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main
