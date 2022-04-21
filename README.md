@@ -12,7 +12,7 @@
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
     <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-83-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
-    <a href="https://github.com/lyz-code/best-of-digital-gardens/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/lyz-code/best-of-digital-gardens?color=green&label=updated"></a>
+    [![Actions Status](https://github.com/lyz-code/autoimport/workflows/Update/badge.svg)](https://github.com/lyz-code/best-of-digital-gardens/actions)
 </p>
 
 This curated list contains 83 awesome digital gardens that share the source of their content as a git repository with a total of 14K stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/lyz-code/best-of-digital-gardens/issues/new/choose), submit a [pull request](https://github.com/lyz-code/best-of-digital-gardens/pulls), or directly edit the [projects.yaml](https://github.com/lyz-code/best-of-digital-gardens/edit/main/projects.yaml). Contributions are very welcome!
@@ -56,7 +56,7 @@ This curated list contains 83 awesome digital gardens that share the source of t
 </details>
 <details><summary><b><a href="https://webring.xxiivv.com/">Webring</a></b> (🥇18 ·  ⭐ 580) - </summary>
 
-- [GitHub](https://github.com/XXIIVV/webring) (👨‍💻 230 · 🔀 290 · 📋 85 - 8% open · ⏱️ 18.04.2022)
+- [GitHub](https://github.com/XXIIVV/webring) (👨‍💻 230 · 🔀 290 · 📋 85 - 8% open · ⏱️ 21.04.2022)
 </details>
 <details><summary><b><a href="https://wiki.xxiivv.com/site/home.html">Oscean</a></b> (🥇17 ·  ⭐ 380) - </summary>
 
@@ -246,7 +246,7 @@ This curated list contains 83 awesome digital gardens that share the source of t
 
 - [GitHub](https://github.com/mehmetka/notebook) (⏱️ 13.04.2022)
 </details>
-<details><summary><b><a href="https://rsarai.github.io/">Rebeca Sarai</a></b> (🥉5 · ➕) - </summary>
+<details><summary><b><a href="https://rsarai.github.io/">Rebeca Sarai</a></b> (🥉5) - </summary>
 
 - [GitHub](https://github.com/rsarai/rsarai.github.io) (👨‍💻 2 · ⏱️ 17.04.2022)
 </details>
