@@ -10,7 +10,7 @@ configuration:
   hide_project_license: true
   markdown_header_file: config/header.md
   markdown_footer_file: config/footer.md
-  project_dead_months: 99999  # "dead" is a somewhat strong assumption, so we avoid making it
+  project_dead_months: 50
   min_description_length: 0
   max_description_length: 999999
   generate_legend: false
@@ -167,5 +167,83 @@ projects:
     homepage: https://github.com/joshpierro/knowledge
     labels: [programming, linux, arts]
     github_id: joshpierro/knowledge
+    description: ''
+    category: english
+  - name: Junwei Zhao
+    homepage: https://wiki.toozhao.com/#/
+    labels: [programming, linux]
+    github_id: wahyd4/knowledge
+    description: ''
+    category: english
+  - name: Kamil Ronewicz
+    homepage: https://github.com/galileo/knowledge
+    labels: [programming]
+    github_id: galileo/knowledge
+    description: ''
+    category: english
+  - name: Manassarn Manoonchai
+    homepage: https://wiki.monosor.com/
+    labels: [programming, productivity, arts]
+    github_id: narze/knowledge
+    description: ''
+    category: english
+  - name: Marc Loupias
+    homepage: https://memo-dev.marc-loupias.fr/
+    labels: [programming, linux]
+    github_id: MarcLoupias/memo-dev
+    description: ''
+    category: english
+  - name: Marshall Bowers
+    homepage: https://knowledge.maxdeviant.com/
+    labels: [programming, linux]
+    github_id: maxdeviant/knowledge
+    description: ''
+    category: english
+  - name: Mathias Borgmalm
+    homepage: https://wiki.mathiasborgmalm.dev/
+    labels: [arts, programming]
+    github_id: MateBoy/knowledge-base
+    description: ''
+    category: english
+  - name: Mehmet Kanat
+    homepage: https://github.com/mehmetka/notebook
+    labels: [programming]
+    github_id: mehmetka/notebook
+    description: ''
+    category: english
+  - name: Mingyang Li
+    homepage: https://tslmy.gitbook.io/k/
+    labels: [programming, science]
+    github_id: tslmy/know
+    description: ''
+    category: english
+  - name: Myles Braithwaite
+    homepage: https://wiki.mylesb.ca/
+    labels: [programming, arts, linux, productivity]
+    github_id: myles/wiki
+    description: ''
+    category: english
+  - name: Nick S. Plekhanov
+    homepage: https://github.com/nicksp/til
+    labels: [programming]
+    github_id: nicksp/til
+    description: ''
+    category: english
+  - name: Nikita Voloboev
+    homepage: https://wiki.nikiv.dev/
+    labels: [science, programming, arts, linux, activism, python, health, productivity]
+    github_id: nikitavoloboev/knowledge
+    description: ''
+    category: english
+  - name: Nimalan aka mark1626
+    homepage: https://mark1626.github.io/knowledge/
+    labels: [science, programming, linux]
+    github_id: mark1626/knowledge
+    description: ''
+    category: english
+  - name: Oleh Kuchuk
+    homepage: https://github.com/hzlmn/week-learning
+    labels: [python, programming]
+    github_id: hzlmn/week-learning
     description: ''
     category: english
