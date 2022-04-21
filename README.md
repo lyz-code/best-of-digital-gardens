@@ -15,7 +15,7 @@
     <a href="https://github.com/lyz-code/best-of-digital-gardens/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/lyz-code/best-of-digital-gardens?color=green&label=updated"></a>
 </p>
 
-This curated list contains 1 awesome open-source projects with a total of 0 stars grouped into 0 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/lyz-code/best-of-digital-gardens/issues/new/choose), submit a [pull request](https://github.com/lyz-code/best-of-digital-gardens/pulls), or directly edit the [projects.yaml](https://github.com/lyz-code/best-of-digital-gardens/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 1 awesome open-source projects with a total of 240 stars grouped into 0 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/lyz-code/best-of-digital-gardens/issues/new/choose), submit a [pull request](https://github.com/lyz-code/best-of-digital-gardens/pulls), or directly edit the [projects.yaml](https://github.com/lyz-code/best-of-digital-gardens/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -38,8 +38,8 @@ This curated list contains 1 awesome open-source projects with a total of 0 star
 - ⏱️&nbsp; Last update timestamp on package manager
 - 📥&nbsp; Download count from package manager
 - 📦&nbsp; Number of dependent projects
-- <img src=".icons/activism.jpg" style="display:inline;" width="13" height="13">&nbsp; Best-of list with Python projects
-- <img src=".icons/programming.jpg" style="display:inline;" width="13" height="13">&nbsp; Best-of list with Python projects
+- <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/activism.png" style="display:inline;" width="13" height="13">&nbsp; Activism content
+- <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="13" height="13">&nbsp; Programming content
 
 <br>
 
@@ -49,9 +49,9 @@ This curated list contains 1 awesome open-source projects with a total of 0 star
 
 _Best-of digital gardens covering too many topics to be enclosed in one single category._
 
-<details><summary><b><a href="https://lyz-code.github.io/blue-book">The Blue Book</a></b> (🥇1 · 📈) - Personal digital garden where I share everything I.. <code>❗Unlicensed</code> <code><img src=".icons/activism.jpg" style="display:inline;" width="13" height="13"></code> <code><img src=".icons/programming.jpg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://lyz-code.github.io/blue-book">The Blue Book</a></b> (🥇12 ·  ⭐ 240) - Personal digital garden where I share everything I.. <code>❗Unlicensed</code> <code><img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/activism.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub]()
+- [GitHub](https://github.com/lyz-code/blue-book) (👨‍💻 8 · 🔀 32 · 📋 4 - 25% open · ⏱️ 21.04.2022)
 </details>
 
 ---
