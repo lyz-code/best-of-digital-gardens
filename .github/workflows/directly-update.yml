@@ -8,6 +8,8 @@ on:  # yamllint disable-line rule:truthy
       - main
   pull_request:
     types: [opened, synchronize]
+  schedule:
+    - cron: 0 18 * * 4    # Every thursday at 6pm
   workflow_dispatch:
 
 env:
@@ -18,22 +20,10 @@ jobs:
   update-best-of-list:
     runs-on: ubuntu-latest
     steps:
-      - if: ${{ github.event.inputs != null  &&  github.event.inputs.version != null
-          }}
-        name: set-version-from-input
-        run: echo "VERSION=${{ github.event.inputs.version }}" >> $GITHUB_ENV
-      - if: ${{ ! (env.VERSION != null && env.VERSION != '') }}
-        name: set-version-via-date
-        run: echo "VERSION=$(date '+%Y.%m.%d')" >> $GITHUB_ENV
       - uses: actions/checkout@main
         with:
           persist-credentials: false
           fetch-depth: 0
-      - name: check-version-tag
-        shell: bash
-        run: |
-          git fetch --tags --force
-          git show-ref --tags --verify --quiet -- "refs/tags/${{ env.VERSION }}" && echo "VERSION=$(date '+%Y.%m.%d-%H.%M')" >> $GITHUB_ENV || exit 0
       - name: update-best-of-list
         uses: best-of-lists/best-of-update-action@v0.8.5
         with:
@@ -41,10 +31,9 @@ jobs:
           github_key: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit files
         run: |
-          rm -r .git/hooks
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add pdm.lock
+          git add .
           git diff-index --quiet HEAD \
             || git commit -m "chore: update README.md"
       - name: Push changes
@@ -52,13 +41,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
-      - name: create-release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: ${{ env.VERSION  }}
-          release_name: 'Update: ${{ env.VERSION  }}'
-          body_path: latest-changes.md
-          draft: true
-          prerelease: false
