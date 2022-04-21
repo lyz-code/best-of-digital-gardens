@@ -28,6 +28,9 @@ jobs:
         with:
           libraries_key: ${{ secrets.LIBRARIES_KEY }}
           github_key: ${{ secrets.GITHUB_TOKEN }}
+      - name: Clean README.md
+        run: |
+          ./.clean_readme.sh
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
