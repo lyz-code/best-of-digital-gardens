@@ -12,7 +12,7 @@
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
     <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-83-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
-    [![Actions Status](https://github.com/lyz-code/autoimport/workflows/Update/badge.svg)](https://github.com/lyz-code/best-of-digital-gardens/actions)
+    <a href="https://github.com/lyz-code/best-of-digital-gardens/actions" title="Update CI"><img src="https://github.com/lyz-code/autoimport/workflows/Update/badge.svg"></a>
 </p>
 
 This curated list contains 83 awesome digital gardens that share the source of their content as a git repository with a total of 14K stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/lyz-code/best-of-digital-gardens/issues/new/choose), submit a [pull request](https://github.com/lyz-code/best-of-digital-gardens/pulls), or directly edit the [projects.yaml](https://github.com/lyz-code/best-of-digital-gardens/edit/main/projects.yaml). Contributions are very welcome!
@@ -381,23 +381,8 @@ This curated list contains 83 awesome digital gardens that share the source of t
 
 ## Related Resources
 
-If you look for inspiration check my favourite digital gardens:
-
-* [Nikita's Everything I know](https://wiki.nikitavoloboev.xyz): It's awesome
-    both in content quality and length, as the way he presents it.
-* [Gwern's site](https://www.gwern.net/index): The way he presents content is
-    unique and gorgeous. I've found myself not very hooked to the content, but
-    when you find something you like it's awesome, such as the [about
-    page](https://www.gwern.net/About), his article on
-    [spaced repetition](https://www.gwern.net/Spaced-repetition) or the essay
-    of [Death Note: L, Anonymity & Eluding
-    Entropy](https://www.gwern.net/Death-Note-Anonymity).
-
-Or browse the following lists:
-
 * [Maggie Appleton's compilation](https://github.com/MaggieAppleton/digital-gardeners)
-* [Nikita's
-    compilation](https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked)
+* [Nikita's compilation](https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked)
 * [Richard Litt's compilation](https://github.com/RichardLitt/meta-knowledge)
 * [KasperZutterman's compilation](https://github.com/KasperZutterman/Second-Brain)
 
