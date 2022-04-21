@@ -22,10 +22,10 @@ categories:
 
 labels:
   - label: activism
-    image: .icons/activism.jpg
+    image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/activism.png
     description: Activism content
   - label: programming
-    image: .icons/programming.jpg
+    image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png
     description: Programming content
 
 projects:
