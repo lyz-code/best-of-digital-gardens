@@ -1,0 +1,61 @@
+---
+# Based on https://github.com/best-of-lists/best-of-update-action/blob/v0.8.5/workflows/update-best-of-list.yml
+name: directly-update-best-of-list
+
+on:  # yamllint disable-line rule:truthy
+  push:
+    branches:
+      - main
+  pull_request:
+    types: [opened, synchronize]
+  workflow_dispatch:
+
+env:
+  BRANCH_PREFIX: update/
+  DEFAULT_BRANCH: main
+
+jobs:
+  update-best-of-list:
+    runs-on: ubuntu-latest
+    steps:
+      - if: ${{ github.event.inputs != null  &&  github.event.inputs.version != null
+          }}
+        name: set-version-from-input
+        run: echo "VERSION=${{ github.event.inputs.version }}" >> $GITHUB_ENV
+      - if: ${{ ! (env.VERSION != null && env.VERSION != '') }}
+        name: set-version-via-date
+        run: echo "VERSION=$(date '+%Y.%m.%d')" >> $GITHUB_ENV
+      - uses: actions/checkout@main
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: check-version-tag
+        shell: bash
+        run: |
+          git fetch --tags --force
+          git show-ref --tags --verify --quiet -- "refs/tags/${{ env.VERSION }}" && echo "VERSION=$(date '+%Y.%m.%d-%H.%M')" >> $GITHUB_ENV || exit 0
+      - name: update-best-of-list
+        uses: best-of-lists/best-of-update-action@v0.8.5
+        with:
+          libraries_key: ${{ secrets.LIBRARIES_KEY }}
+          github_key: ${{ secrets.GITHUB_TOKEN }}
+      - name: push-update
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          branch: ${{ env.DEFAULT_BRANCH }}
+          commit_user_name: best-of update
+          commit_user_email: actions@github.com
+          commit_message: Update best-of list for version ${{ env.VERSION  }}
+          tagging_message: ${{ env.VERSION  }}
+          skip_dirty_check: true
+          commit_options: --allow-empty
+      - name: create-release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ env.VERSION  }}
+          release_name: 'Update: ${{ env.VERSION  }}'
+          body_path: latest-changes.md
+          draft: true
+          prerelease: false
