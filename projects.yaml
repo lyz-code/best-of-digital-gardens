@@ -58,3 +58,21 @@ projects:
     github_id: lyz-code/blue-book
     description: ''
     category: default
+  - name: Aizat Faiz
+    homepage: https://www.aizatto.com/
+    labels: [programming]
+    github_id: aizatto/gitbook-public
+    description: ''
+    category: default
+  - name: Alex Pliutau
+    homepage: https://github.com/plutov/notebook
+    labels: [programming]
+    github_id: plutov/notebook
+    description: ''
+    category: default
+  - name: Alper Kanat
+    homepage: https://github.com/tunix/notebook
+    labels: [linux]
+    github_id: tunix/notebook
+    description: ''
+    category: default
