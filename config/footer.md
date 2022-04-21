@@ -3,23 +3,8 @@
 
 ## Related Resources
 
-If you look for inspiration check my favourite digital gardens:
-
-* [Nikita's Everything I know](https://wiki.nikitavoloboev.xyz): It's awesome
-    both in content quality and length, as the way he presents it.
-* [Gwern's site](https://www.gwern.net/index): The way he presents content is
-    unique and gorgeous. I've found myself not very hooked to the content, but
-    when you find something you like it's awesome, such as the [about
-    page](https://www.gwern.net/About), his article on
-    [spaced repetition](https://www.gwern.net/Spaced-repetition) or the essay
-    of [Death Note: L, Anonymity & Eluding
-    Entropy](https://www.gwern.net/Death-Note-Anonymity).
-
-Or browse the following lists:
-
 * [Maggie Appleton's compilation](https://github.com/MaggieAppleton/digital-gardeners)
-* [Nikita's
-    compilation](https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked)
+* [Nikita's compilation](https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked)
 * [Richard Litt's compilation](https://github.com/RichardLitt/meta-knowledge)
 * [KasperZutterman's compilation](https://github.com/KasperZutterman/Second-Brain)
 
