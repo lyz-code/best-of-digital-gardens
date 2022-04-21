@@ -319,15 +319,6 @@ projects:
     github_id:
     description: ''
     category: english
-  - name: Gwern Branwen
-    homepage: https://www.gwern.net/index
-    labels: [science, programming, health]
-    created_at: 2019-03-29
-    updated_at: 2022-03-29
-    last_commit_pushed_at: 2022-03-29
-    star_count: 3000
-    description: ''
-    category: english
   - name: Memento
     homepage: https://m0wer.github.io/memento/
     labels: [programming, linux, python, arts]
@@ -362,5 +353,35 @@ projects:
     homepage: https://beepb00p.xyz/exobrain/
     labels: [programming, arts, science, health, productivity]
     github_id: karlicoss/exobrain
+    description: ''
+    category: english
+  - name: Wayanjimmy Notebook
+    homepage: https://notebook.wayanjimmy.xyz/
+    labels: [arts, programming, science, productivity]
+    github_id: wayanjimmy/notebook
+    description: ''
+    category: english
+  - name: swyx.io ideas
+    homepage: https://www.swyx.io/ideas/?show=Essays
+    labels: []
+    github_id: sw-yx/swyxdotio
+    description: ''
+    category: english
+  - name: Maggie Appelton
+    homepage: https://maggieappleton.com/garden
+    labels: [programming, science, arts]
+    github_id: MaggieAppleton/maggieappleton.com-V2
+    description: ''
+    category: english
+  - name: Scott Spence
+    homepage: https://scottspence.com/posts
+    labels: []
+    github_id: spences10/scottspence.com
+    description: ''
+    category: english
+  - name: Maxime Vaillancourt
+    homepage: https://maximevaillancourt.com/notes
+    labels: []
+    github_id: maximevaillancourt/maximevaillancourt.com
     description: ''
     category: english
