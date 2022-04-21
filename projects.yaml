@@ -39,11 +39,14 @@ labels:
   - label: python
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png
     description: .   Python content
+  - label: productivity
+    image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/time-management.png
+    description: Productivity content
 
 projects:
   - name: The Blue Book
     homepage: https://lyz-code.github.io/blue-book
     category: generic
-    labels: [activism, antifascism, health, programming, python]
+    labels: [activism, antifascism, productivity, health, programming, python]
     github_id: lyz-code/blue-book
     description: ''
