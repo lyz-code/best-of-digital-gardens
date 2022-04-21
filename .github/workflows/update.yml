@@ -1,5 +1,5 @@
 ---
-name: directly-update-best-of-list
+name: Update
 
 on:  # yamllint disable-line rule:truthy
   push:
