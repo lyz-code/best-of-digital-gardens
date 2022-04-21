@@ -7,9 +7,12 @@ configuration:
   require_repo: false
   generate_install_hints: false
   hide_empty_categories: true
+  hide_project_license: true
   markdown_header_file: config/header.md
   markdown_footer_file: config/footer.md
   project_dead_months: 99999  # "dead" is a somewhat strong assumption, so we avoid making it
+  min_description_length: 0
+  max_description_length: 999999
 
 categories:
   - category: generic
@@ -27,6 +30,15 @@ labels:
   - label: programming
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png
     description: Programming content
+  - label: health
+    image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/cardiogram.png
+    description: Health content
+  - label: python
+    image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png
+    description: Python content
+  - label: antifascism
+    image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/antifascism.png
+    description: Antifascist content
 
 projects:
   - name: The Blue Book
@@ -36,7 +48,7 @@ projects:
       or data analysis
     homepage: https://lyz-code.github.io/blue-book
     github_id: lyz-code/blue-book
-    labels: [activism, programming]
+    labels: [activism, antifascism, health, programming, python]
     category: generic
 # - name: Name of your digital garden
 #   homepage: link to browse the garden
