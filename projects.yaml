@@ -1,19 +1,47 @@
+---
 configuration:
-  markdown_header_file: "config/header.md"
-  markdown_footer_file: "config/footer.md"
+  min_stars: 0
+  min_projectrank: 0
+  allowed_licenses: [all]
+  require_license: false
+  require_repo: false
+  generate_install_hints: false
+  hide_empty_categories: true
+  markdown_header_file: config/header.md
+  markdown_footer_file: config/footer.md
+  project_dead_months: 99999  # "dead" is a somewhat strong assumption, so we avoid making it
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: generic
+    title: Generic Digital Gardens
+    subtitle: Best-of digital gardens covering too many topics to be enclosed in one
+      single category.
+  - category: programming
+    title: Programming Digital Gardens
+    subtitle: Best-of digital gardens covering programming .
 
 labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
+  - label: activism
+    image: .icons/activism.jpg
+    description: Activism content
+  - label: programming
+    image: .icons/programming.jpg
+    description: Programming content
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: The Blue Book
+    description: Personal digital garden where I share everything I learn about a
+      huge variety of topics, from antifascism and other forms of activism, to life
+      management, health, Python, DevOps, software architecture, writing, dancing,
+      or data analysis
+    homepage: https://lyz-code.github.io/blue-book
+    github_id: lyz-code/blue-book
+    labels: [activism, programming]
+    category: generic
+# - name: Name of your digital garden
+#   homepage: link to browse the garden
+#   github_id: github-user/repository-name
+#   gitlab_id: gitlab-user/repository-name
+#   docs-url: if you use a git provider different from gitlab or github
+#   labels: [activism, programming]
+#   category: generic
