@@ -247,3 +247,84 @@ projects:
     github_id: hzlmn/week-learning
     description: ''
     category: english
+  - name: Omar Bahareth
+    homepage: https://wiki.omar.engineer/
+    labels: [programming, science]
+    github_id: obahareth/knowledge
+    description: ''
+    category: english
+  - name: Piotr Stojanow
+    homepage: https://wiki.stojanow.com/
+    labels: [science, arts, activism, productivity]
+    github_id: psto/episteme
+    description: ''
+    category: english
+  - name: Prasanna Loganathar
+    homepage: https://github.com/prasannavl/knowledge
+    labels: [science, linux, programming]
+    github_id: prasannavl/knowledge
+    description: ''
+    category: english
+  - name: PuiMan Cheui
+    homepage: https://wiki.aleen42.com/
+    labels: [programming, linux]
+    github_id: aleen42/PersonalWiki
+    description: ''
+    category: english
+  - name: Rachel Brindle
+    homepage: https://knowledge.rachelbrindle.com/
+    labels: [activism, science, arts, productivity, programming, python, linux]
+    github_id: younata/personal_knowledge
+    description: ''
+    category: english
+  - name: Richard Littauer
+    homepage: https://github.com/RichardLitt/knowledge
+    labels: [science, arts, python, programming]
+    github_id: RichardLitt/knowledge
+    description: ''
+    category: english
+  - name: Sam Yamashita
+    homepage: https://github.com/sotayamashita/knowledge
+    labels: [programming, linux]
+    github_id: sotayamashita/knowledge
+    description: ''
+    category: english
+  - name: Simon Vocella
+    homepage: https://github.com/voxsim/knowledge
+    labels: [science, programming]
+    github_id: voxsim/knowledge
+    description: ''
+    category: english
+  - name: Stephen McAleese
+    homepage: https://directory.stephenmcaleese.com/
+    labels: [science, productivity]
+    github_id: smcaleese/directory
+    description: ''
+    category: english
+  - name: Stephen Whitmore
+    homepage: https://github.com/hackergrrl/wisdom
+    labels: [science, productivity, arts, linux, programming]
+    github_id: hackergrrl/wisdom
+    description: ''
+    category: english
+  - name: Yoshua Wuyts
+    homepage: https://github.com/yoshuawuyts/notes
+    labels: [arts, programming, productivity]
+    github_id: yoshuawuyts/notes
+    description: ''
+    category: english
+  - name: Zeh Fernandes
+    homepage:
+    labels: []
+    github_id:
+    description: ''
+    category: english
+  - name: Gwern Branwen
+    homepage: https://www.gwern.net/index
+    labels: [science, programming, health]
+    created_at: 2019-03-29
+    updated_at: 2022-03-29
+    last_commit_pushed_at: 2022-03-29
+    star_count: 3000
+    description: ''
+    category: english
