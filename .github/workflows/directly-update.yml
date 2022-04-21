@@ -39,16 +39,19 @@ jobs:
         with:
           libraries_key: ${{ secrets.LIBRARIES_KEY }}
           github_key: ${{ secrets.GITHUB_TOKEN }}
-      - name: push-update
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Commit files
+        run: |
+          rm -r .git/hooks
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add pdm.lock
+          git diff-index --quiet HEAD \
+            || git commit -m "chore: update README.md"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
-          branch: ${{ env.DEFAULT_BRANCH }}
-          commit_user_name: best-of update
-          commit_user_email: actions@github.com
-          commit_message: Update best-of list for version ${{ env.VERSION  }}
-          tagging_message: ${{ env.VERSION  }}
-          skip_dirty_check: true
-          commit_options: --allow-empty
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
       - name: create-release
         uses: actions/create-release@v1
         env:
