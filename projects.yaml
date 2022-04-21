@@ -82,7 +82,7 @@ projects:
   - name: Andrew Zappella
     homepage: https://github.com/azappella/knowledge
     labels: [programming, productivity, linux]
-    github_id:
+    github_id: azappella/knowledge
     description: ''
     category: english
   - name: Bhupesh Varshney
@@ -313,12 +313,6 @@ projects:
     github_id: yoshuawuyts/notes
     description: ''
     category: english
-  - name: Zeh Fernandes
-    homepage:
-    labels: []
-    github_id:
-    description: ''
-    category: english
   - name: Memento
     homepage: https://m0wer.github.io/memento/
     labels: [programming, linux, python, arts]
@@ -383,5 +377,173 @@ projects:
     homepage: https://maximevaillancourt.com/notes
     labels: []
     github_id: maximevaillancourt/maximevaillancourt.com
+    description: ''
+    category: english
+  - name: 100 Rabbits
+    homepage: https://100r.co/site/home.html
+    labels: [programming, arts]
+    github_id: hundredrabbits/100r.co
+    description: ''
+    category: english
+  - name: Gwern Branwen
+    homepage: https://www.gwern.net/
+    labels: [science, programming, arts]
+    github_id: gjord/gwern.net
+    description: ''
+    category: english
+  - name: Paul Copplestone
+    homepage: https://paul.copplest.one/knowledge/
+    labels: [arts, science, programming]
+    github_id: kiwicopple/paul.copplest.one
+    description: ''
+    category: english
+  - name: Jethro's Braindump
+    homepage: https://braindump.jethro.dev/
+    labels: [science, linux, programming, activism]
+    github_id: jethrokuan/braindump
+    description: ''
+    category: english
+  - name: SecretGeek TIL
+    homepage: https://til.secretgeek.net/
+    labels: [programming, linux, arts, python, productivity]
+    github_id: secretGeek/today-i-learned-staging
+    description: ''
+    category: english
+  - name: Lee Byron
+    homepage: https://leebyron.com/til/
+    labels: [programming, linux]
+    github_id: leebyron/til
+    description: ''
+    category: english
+  - name: Shreyas Minocha’s Wiki
+    homepage: https://wiki.shreyasminocha.me/index.html
+    labels: [science, programming, python]
+    github_id: shreyasminocha/wiki
+    description: ''
+    category: english
+  - name: Michael Lubinsky
+    homepage: https://mlubinsky.github.io/
+    labels: [programming, python, linux]
+    github_id: mlubinsky/mlubinsky.github.com
+    description: ''
+    category: english
+  - name: nkintc
+    homepage: https://nkintc.gitbook.io/brainless/
+    labels: [arts, science, linux]
+    github_id: nkintc/nkintc.github.io
+    description: ''
+    category: english
+  - name: seanbreckenridge exobrain
+    homepage: https://exobrain.sean.fish/
+    labels: [programming]
+    github_id: seanbreckenridge/exobrain
+    description: ''
+    category: english
+  - name: mistermicheels learning notes
+    homepage: https://learning-notes.mistermicheels.com/about/about/
+    labels: [programming]
+    github_id: mistermicheels/learning-notes
+    description: ''
+    category: english
+  - name: Jesse Squires
+    homepage: https://jessesquires.github.io/TIL/
+    labels: [programming, python, activism]
+    github_id: jessesquires/TIL
+    description: ''
+    category: english
+  - name: (Nick Belzer
+    homepage: https://notes.nickbelzer.me/
+    labels: [programming]
+    github_id: nbelzer/notes
+    description: ''
+    category: english
+  - name: The Refined Mind
+    homepage: https://refinedmind.co/digital-garden
+    labels: []
+    github_id: MikeTannenbaum/my-public-mind
+    description: ''
+    category: english
+  - name: David Seah
+    homepage: https://davidseah.gitbook.io/davidseah/
+    labels: [productivity, programming]
+    github_id: davidseah/knowledgebank
+    description: ''
+    category: english
+  - name: enkiv2
+    homepage: https://www.lord-enki.net/
+    labels: [arts, science]
+    github_id: enkiv2/misc
+    description: ''
+    category: english
+  - name: The Intersect
+    homepage: https://intersect.rknight.me/
+    labels: [productivity, health, linux, programming]
+    github_id: rknightuk/intersect
+    description: ''
+    category: english
+  - name: Edward Wardell-Yerburgh
+    homepage: https://notes.eddyerburgh.me/
+    labels: [programming]
+    github_id: eddyerburgh/notes
+    description: ''
+    category: english
+  - name: Nimor's zettelkasten
+    homepage: https://nimor111.github.io/notebook/
+    labels: []
+    github_id: Nimor111/notebook
+    description: ''
+    category: english
+  - name: Jake Chvatal
+    homepage: https://wiki.jacob.chvatal.com/
+    labels: []
+    github_id: jakeisnt/wiki
+    description: ''
+    category: english
+  - name: Simon Willison
+    homepage: https://til.simonwillison.net/
+    labels: [programming, linux, python]
+    github_id: simonw/til
+    description: ''
+    category: english
+  - name: Keyvan Akbary
+    homepage: https://keyvanakbary.github.io/learning-notes/
+    labels: []
+    github_id: keyvanakbary/learning-notes
+    description: ''
+    category: english
+  - name: Vegard Stikbakke's TILs
+    homepage: https://til.vegardstikbakke.com/
+    labels: [programming]
+    github_id: vegarsti/til
+    description: ''
+    category: english
+  - name: Believer
+    homepage: https://devlog.willcodefor.beer/
+    labels: [programming]
+    github_id: believer/devlog
+    description: ''
+    category: english
+  - name: Imron Rosyadi
+    homepage: https://irosyadi.gitbook.io/irosyadi/
+    labels: [programming]
+    github_id: irosyadi/gitbook
+    description: ''
+    category: english
+  - name: Mineral Existence
+    homepage: https://mineralexistence.com/wiki.html
+    labels: [programming, arts]
+    github_id: flber/Mineral-Existence
+    description: ''
+    category: english
+  - name: Webring
+    homepage: https://webring.xxiivv.com/
+    labels: []
+    github_id: XXIIVV/webring
+    description: ''
+    category: english
+  - name: Oscean
+    homepage: https://wiki.xxiivv.com/site/home.html
+    labels: []
+    github_id: XXIIVV/Oscean
     description: ''
     category: english

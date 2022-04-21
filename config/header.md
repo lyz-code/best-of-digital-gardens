@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-    <strong>🏆&nbsp; A ranked list of awesome projects. Updated weekly.</strong>
+    <strong>🏆&nbsp; A ranked list of awesome digital gardens. Updated weekly.</strong>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
     <a href="https://github.com/lyz-code/best-of-digital-gardens/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/lyz-code/best-of-digital-gardens?color=green&label=updated"></a>
 </p>
 
-This curated list contains {project_count} awesome open-source projects with a total of {stars_count} stars grouped into {category_count} categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/lyz-code/best-of-digital-gardens/issues/new/choose), submit a [pull request](https://github.com/lyz-code/best-of-digital-gardens/pulls), or directly edit the [projects.yaml](https://github.com/lyz-code/best-of-digital-gardens/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains {project_count} awesome digital gardens that share the source of their content as a git repository with a total of {stars_count} stars grouped into {category_count} categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/lyz-code/best-of-digital-gardens/issues/new/choose), submit a [pull request](https://github.com/lyz-code/best-of-digital-gardens/pulls), or directly edit the [projects.yaml](https://github.com/lyz-code/best-of-digital-gardens/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -24,7 +24,7 @@ This curated list contains {project_count} awesome open-source projects with a t
 - ⭐️&nbsp; Star count from GitHub
 - 🐣&nbsp; New project _(less than 6 months old)_
 - 💤&nbsp; Inactive project _(6 months no activity)_
-- 💀&nbsp; Dead project _(99999 months no activity)_
+- 💀&nbsp; Dead project _(50 months no activity)_
 - 📈📉&nbsp; Project is trending up or down
 - ➕&nbsp; Project was recently added
 - 👨‍💻&nbsp; Contributors count from GitHub
