@@ -24,12 +24,15 @@ categories:
     subtitle: Best-of digital gardens covering programming .
 
 labels:
+
   - label: activism
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/activism.png
     description: Activism content
   - label: antifascism
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/antifascism.png
-    description: .   Antifascist content
+    description: '.... Antifascist content'
+
+
   - label: programming
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png
     description: Programming content
@@ -38,15 +41,21 @@ labels:
     description: Health content
   - label: python
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png
-    description: .   Python content
+    description: '.... Python content'
+  - label: linux
+    image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png
+    description: '.... Linux content'
+
+
   - label: productivity
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/time-management.png
     description: Productivity content
+
 
 projects:
   - name: The Blue Book
     homepage: https://lyz-code.github.io/blue-book
     category: generic
-    labels: [activism, antifascism, productivity, health, programming, python]
+    labels: [activism, antifascism, productivity, health, programming, python, linux]
     github_id: lyz-code/blue-book
     description: ''
