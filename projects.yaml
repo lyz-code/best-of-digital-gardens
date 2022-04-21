@@ -17,13 +17,9 @@ configuration:
   generate_toc: false
 
 categories:
-  - category: generic
-    title: Generic Digital Gardens
-    subtitle: Best-of digital gardens covering too many topics to be enclosed in one
-      single category.
-  - category: programming
-    title: Programming Digital Gardens
-    subtitle: Best-of digital gardens covering programming .
+  - category: default
+    title: Digital Gardens
+    subtitle: ''
 
 labels:
 
@@ -57,8 +53,8 @@ labels:
 projects:
   - name: The Blue Book
     homepage: https://lyz-code.github.io/blue-book
-    category: generic
     labels: [activism, antifascism, productivity, health, programming, python, linux,
       arts, science, feminism]
     github_id: lyz-code/blue-book
     description: ''
+    category: default

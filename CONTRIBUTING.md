@@ -26,17 +26,46 @@ Before opening an issue or pull request, please ensure that you adhere to the fo
     ```yaml
     - name: Name of your digital garden
       homepage: link to browse the garden
-      category: generic
       labels: [activism, programming]
       # Select one of github_id, gitlab_id, docs-url
       github_id: github-user/repository-name
       gitlab_id: gitlab-user/repository-name
       docs-url: if you use a git provider different from gitlab or github
       description: ''
+      category: default
     ```
 - Please create an individual issue or pull request for each project.
 - Please use the following title format for the issue or pull request: `Add project: project-name`.
 - If a project doesn't fit into any of the pre-existing categories, it should go under the `Others` category by not assigning any category. You can also suggest a new category via the add or update category template on the [issue page](https://github.com/lyz-code/best-of-digital-gardens/issues/new/choose).
+
+## Add a label
+
+If you like to add a label follow the next steps:
+
+* Search the icon of the label online, for example in
+    [Flaticon](https://www.flaticon.com/).
+* Download it into the `.icons` directory.
+* Edit the `projects.yaml` file and add it under the `labels` key:
+    ```yaml
+    - label: label-name
+      image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/label-icon.png
+    ```
+
+    Changing:
+
+    * `label-name`: Name you're going to use in the `projects.yaml` file.
+    * `label-icon.png`: Filename of the icon.
+
+* Edit the `config/header.md` file and add a new line under the `## Categories`
+    ~~~
+    - <img
+    src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/label-icon.png" style="display:inline;" width="13" height="13">&nbsp; Label Name content
+    ~~~
+
+    Changing:
+
+    * `label-icon.png`: Filename of the icon.
+    * `Label Name`: How do you want to see the category named in the `README.md`
 
 ## Update a project
 
@@ -50,67 +79,6 @@ Before opening an issue or pull request, please ensure that you adhere to the fo
 - Only update the project in the `projects.yaml` and never to the `README.md` file directly. Use the yaml format and the properties documented in the [project properties](#project-properties) section below to update a new project.
 - Please create an individual issue or pull request for each project.
 - Please use the following title format for the issue or pull request: `Update project: project-name`.
-
-## Project properties
-
-<table>
-    <tr>
-        <th>Property</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td><code>name</code></td>
-        <td>Name of the project. This name is required to be unique on the best-of list.</td>
-    </tr>
-    <tr>
-        <td><code>github_id</code></td>
-        <td>Github ID of the project based on user or organization and the repository name, e.g. <code>best-of-lists/best-of-generator</code>.</td>
-    </tr>
-    <tr>
-        <td colspan="2"><b>Optional Properties:</b></td>
-    </tr>
-    <tr>
-        <td><code>category</code></td>
-        <td>Category that this project is most related to. You can find all available category IDs in the <code>projects.yaml</code> file. The project will be sorted into the <code>Others</code> category if no category is provided.</td>
-    </tr>
-    <tr>
-        <td><code>labels</code></td>
-        <td>List of labels that this project is related to. You can find all available label IDs in the <code>projects.yaml</code> file.</td>
-    </tr>
-    <tr>
-        <td colspan="2"><b>Supported Package Managers:</b></td>
-    </tr>
-    <tr>
-        <td><code>pypi_id</code></td>
-        <td>Project ID on the python package index (<a href="https://pypi.org">PyPi</a>).</td>
-    </tr>
-    <tr>
-        <td><code>conda_id</code></td>
-        <td>Project ID on the <a href="https://anaconda.org">conda package manager</a>. If the main package is provided on a different channel, prefix the ID with the given channel: e.g. <code>conda-forge/tensorflow</code></td>
-    </tr>
-    <tr>
-        <td><code>npm_id</code></td>
-        <td>Project ID on the Node package manager (<a href="https://www.npmjs.com">npm</a>).</td>
-    </tr>
-    <tr>
-        <td><code>dockerhub_id</code></td>
-        <td>Project ID on the <a href="https://hub.docker.com">Docker Hub container registry</a>. </td>
-    </tr>
-    <tr>
-        <td><code>maven_id</code></td>
-        <td>Artifact ID on <a href="https://mvnrepository.com">Maven central</a>, e.g. <code>org.apache.flink:flink-core</code>. </td>
-    </tr>
-</table>
-
-Please refer to the [best-of-generator documentation](https://github.com/best-of-lists/best-of-generator#project-properties) for a complete and up-to-date list of supported project properties.
-
-## Improve metadata collection
-
-If you like to contribute to or share suggestions regarding the project metadata collection, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) repository.
-
-## Improve markdown generation
-
-If you like to contribute to or share suggestions regarding the markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) repository.
 
 ## Create your own best-of list
 
