@@ -24,12 +24,15 @@ Before opening an issue or pull request, please ensure that you adhere to the fo
 - Please make sure that the project was not already added or suggested to this best-of list. You can ensure this by searching the projects.yaml, the Readme, and the issue list.
 - Add the project to the `projects.yaml` and never to the `README.md` file directly. Use the yaml format and the properties documented in the [project properties](#project-properties) section below to add a new project, for example:
     ```yaml
-    - name: Tensorflow
-      github_id: tensorflow/tensorflow
-      pypi_id: tensorflow
-      conda_id: tensorflow
-      labels: ["tensorflow"]
-      category: ml-frameworks
+    - name: Name of your digital garden
+      homepage: link to browse the garden
+      category: generic
+      labels: [activism, programming]
+      # Select one of github_id, gitlab_id, docs-url
+      github_id: github-user/repository-name
+      gitlab_id: gitlab-user/repository-name
+      docs-url: if you use a git provider different from gitlab or github
+      description: ''
     ```
 - Please create an individual issue or pull request for each project.
 - Please use the following title format for the issue or pull request: `Add project: project-name`.

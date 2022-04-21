@@ -27,6 +27,9 @@ labels:
   - label: activism
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/activism.png
     description: Activism content
+  - label: antifascism
+    image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/antifascism.png
+    description: '  Antifascist content'
   - label: programming
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png
     description: Programming content
@@ -35,25 +38,12 @@ labels:
     description: Health content
   - label: python
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png
-    description: Python content
-  - label: antifascism
-    image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/antifascism.png
-    description: Antifascist content
+    description: '  Python content'
 
 projects:
   - name: The Blue Book
-    description: Personal digital garden where I share everything I learn about a
-      huge variety of topics, from antifascism and other forms of activism, to life
-      management, health, Python, DevOps, software architecture, writing, dancing,
-      or data analysis
     homepage: https://lyz-code.github.io/blue-book
-    github_id: lyz-code/blue-book
-    labels: [activism, antifascism, health, programming, python]
     category: generic
-# - name: Name of your digital garden
-#   homepage: link to browse the garden
-#   github_id: github-user/repository-name
-#   gitlab_id: gitlab-user/repository-name
-#   docs-url: if you use a git provider different from gitlab or github
-#   labels: [activism, programming]
-#   category: generic
+    labels: [activism, antifascism, health, programming, python]
+    github_id: lyz-code/blue-book
+    description: ''
