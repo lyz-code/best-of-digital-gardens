@@ -535,12 +535,6 @@ projects:
     github_id: flber/Mineral-Existence
     description: ''
     category: english
-  - name: Webring
-    homepage: https://webring.xxiivv.com/
-    labels: []
-    github_id: XXIIVV/webring
-    description: ''
-    category: english
   - name: Oscean
     homepage: https://wiki.xxiivv.com/site/home.html
     labels: []

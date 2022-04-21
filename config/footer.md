@@ -7,6 +7,7 @@
 * [Nikita's compilation](https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked)
 * [Richard Litt's compilation](https://github.com/RichardLitt/meta-knowledge)
 * [KasperZutterman's compilation](https://github.com/KasperZutterman/Second-Brain)
+* [Webring](https://webring.xxiivv.com/)
 
 Or the [digital garden](https://www.reddit.com/r/DigitalGardens/)'s reddit.
 
