@@ -109,3 +109,63 @@ projects:
     github_id: CarlosDelfino/carlosdelfino.github.com
     description: ''
     category: portuguese
+  - name: .CLI
+    homepage: https://wiki.changbai.li/#/
+    labels: [programming, health]
+    github_id: dotcli/knowledge
+    description: ''
+    category: english
+  - name: Daniel Schildt
+    homepage: https://github.com/d2s/knowledge
+    labels: [programming, linux, arts, science]
+    github_id: d2s/knowledge
+    description: ''
+    category: english
+  - name: David Gasquez
+    homepage: https://publish.obsidian.md/davidgasquez/README
+    labels: [programming, health, linux, productivity, arts, science]
+    github_id: davidgasquez/handbook
+    description: ''
+    category: english
+  - name: E. Ferreira
+    homepage: https://github.com/slowernews/notebook
+    labels: [programming, arts]
+    github_id: slowernews/notebook
+    description: ''
+    category: english
+  - name: Eyal Levin
+    homepage: https://github.com/eyalev/notes
+    labels: [arts]
+    github_id: eyalev/notes
+    description: ''
+    category: english
+  - name: Ezekiel Kigbo
+    homepage: https://github.com/theatlasroom/tidbits
+    labels: [programming, science]
+    github_id: theatlasroom/tidbits
+    description: ''
+    category: english
+  - name: Harald O. Bakke
+    homepage: https://hwiki.bakke.be/
+    labels: [activism, arts, productivity]
+    github_id: bakke92/hwiki
+    description: ''
+    category: english
+  - name: Joseph Rex
+    homepage: https://github.com/josephrexme/knowledge
+    labels: [programming, arts]
+    github_id: josephrexme/knowledge
+    description: ''
+    category: english
+  - name: Josh Johnston
+    homepage: https://github.com/joshwnj/knowledge
+    labels: [programming, productivity, arts]
+    github_id: joshwnj/knowledge
+    description: ''
+    category: english
+  - name: Josh Pierro
+    homepage: https://github.com/joshpierro/knowledge
+    labels: [programming, linux, arts]
+    github_id: joshpierro/knowledge
+    description: ''
+    category: english
