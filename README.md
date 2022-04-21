@@ -38,10 +38,10 @@ This curated list contains 1 awesome open-source projects with a total of 240 st
 - 📥&nbsp; Download count from package manager
 - 📦&nbsp; Number of dependent projects
 - <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/activism.png" style="display:inline;" width="13" height="13">&nbsp; Activism content
-- <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/antifascism.png" style="display:inline;" width="13" height="13">&nbsp; . Antifascist content
+- <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/antifascism.png" style="display:inline;" width="13" height="13">&nbsp; .   Antifascist content
 - <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="13" height="13">&nbsp; Programming content
 - <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/cardiogram.png" style="display:inline;" width="13" height="13">&nbsp; Health content
-- <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png" style="display:inline;" width="13" height="13">&nbsp; . Python content
+- <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png" style="display:inline;" width="13" height="13">&nbsp; .   Python content
 
 <br>
 
