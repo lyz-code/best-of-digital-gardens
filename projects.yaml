@@ -17,8 +17,11 @@ configuration:
   generate_toc: false
 
 categories:
-  - category: default
-    title: Digital Gardens
+  - category: english
+    title: English
+    subtitle: ''
+  - category: portuguese
+    title: Portuguese
     subtitle: ''
 
 labels:
@@ -57,22 +60,52 @@ projects:
       arts, science, feminism]
     github_id: lyz-code/blue-book
     description: ''
-    category: default
+    category: english
   - name: Aizat Faiz
     homepage: https://www.aizatto.com/
     labels: [programming]
     github_id: aizatto/gitbook-public
     description: ''
-    category: default
+    category: english
   - name: Alex Pliutau
     homepage: https://github.com/plutov/notebook
     labels: [programming]
     github_id: plutov/notebook
     description: ''
-    category: default
+    category: english
   - name: Alper Kanat
     homepage: https://github.com/tunix/notebook
     labels: [linux]
     github_id: tunix/notebook
     description: ''
-    category: default
+    category: english
+  - name: Andrew Zappella
+    homepage: https://github.com/azappella/knowledge
+    labels: [programming, productivity, linux]
+    github_id:
+    description: ''
+    category: english
+  - name: Bhupesh Varshney
+    homepage: https://til.bhupesh.me/
+    labels: [programming, linux, python]
+    github_id: Bhupesh-V/til
+    description: ''
+    category: english
+  - name: Bruno Coimbra
+    homepage: https://wiki.metaphoric.dev/
+    labels: [linux]
+    github_id: b-coimbra/wiki
+    description: ''
+    category: english
+  - name: Caio Gondim
+    homepage: https://github.com/caiogondim/knowledge
+    labels: [programming, linux]
+    github_id: caiogondim/knowledge
+    description: ''
+    category: english
+  - name: Carlos Delfino
+    homepage: https://carlosdelfino.github.io
+    labels: []
+    github_id: CarlosDelfino/carlosdelfino.github.com
+    description: ''
+    category: portuguese

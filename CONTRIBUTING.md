@@ -32,7 +32,7 @@ Before opening an issue or pull request, please ensure that you adhere to the fo
       gitlab_id: gitlab-user/repository-name
       docs-url: if you use a git provider different from gitlab or github
       description: ''
-      category: default
+      category: english
     ```
 - Please create an individual issue or pull request for each project.
 - Please use the following title format for the issue or pull request: `Add project: project-name`.
