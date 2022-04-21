@@ -29,7 +29,7 @@ labels:
     description: Activism content
   - label: antifascism
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/antifascism.png
-    description: . Antifascist content
+    description: .   Antifascist content
   - label: programming
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png
     description: Programming content
@@ -38,7 +38,7 @@ labels:
     description: Health content
   - label: python
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png
-    description: . Python content
+    description: .   Python content
 
 projects:
   - name: The Blue Book
