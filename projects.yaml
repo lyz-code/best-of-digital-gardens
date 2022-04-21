@@ -29,35 +29,36 @@ labels:
 
   - label: activism
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/activism.png
-    description: Activism content
   - label: antifascism
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/antifascism.png
-    description: '.... Antifascist content'
+  - label: feminism
+    image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/feminism.png
 
 
   - label: programming
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png
-    description: Programming content
-  - label: health
-    image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/cardiogram.png
-    description: Health content
   - label: python
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png
-    description: '.... Python content'
   - label: linux
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png
-    description: '.... Linux content'
 
+  - label: health
+    image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/cardiogram.png
 
   - label: productivity
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/time-management.png
-    description: Productivity content
 
+  - label: arts
+    image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/tools.png
+
+  - label: science
+    image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/science.png
 
 projects:
   - name: The Blue Book
     homepage: https://lyz-code.github.io/blue-book
     category: generic
-    labels: [activism, antifascism, productivity, health, programming, python, linux]
+    labels: [activism, antifascism, productivity, health, programming, python, linux,
+      arts, science, feminism]
     github_id: lyz-code/blue-book
     description: ''
