@@ -328,3 +328,39 @@ projects:
     star_count: 3000
     description: ''
     category: english
+  - name: Memento
+    homepage: https://m0wer.github.io/memento/
+    labels: [programming, linux, python, arts]
+    github_id: m0wer/memento
+    description: ''
+    category: english
+  - name: Things Learned
+    homepage: https://sunflowerno0b.github.io/ATW/
+    labels: [programming, linux]
+    github_id: sunflowerno0b/ATW
+    description: ''
+    category: english
+  - name: Giant Robots Smashing Into Other Giant Robots
+    homepage: https://thoughtbot.com/blog
+    labels: [linux, programming, python]
+    github_id: thoughtbot/til
+    description: ''
+    category: english
+  - name: pawamoy's website
+    homepage: https://pawamoy.github.io
+    labels: [programming, python, science]
+    github_id: pawamoy/website/
+    description: ''
+    category: english
+  - name: Kyle King recipes
+    homepage: https://recipes.kyleking.me/
+    labels: [arts]
+    github_id: KyleKing/recipes
+    description: ''
+    category: english
+  - name: Karlicoss Exobrain
+    homepage: https://beepb00p.xyz/exobrain/
+    labels: [programming, arts, science, health, productivity]
+    github_id: karlicoss/exobrain
+    description: ''
+    category: english
