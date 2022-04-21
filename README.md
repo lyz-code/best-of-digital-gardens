@@ -19,10 +19,6 @@ This curated list contains 1 awesome open-source projects with a total of 240 st
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
-## Contents
-
-- [Generic Digital Gardens](#generic-digital-gardens) _1 projects_
-
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
 - ⭐️&nbsp; Star count from GitHub
@@ -35,21 +31,21 @@ This curated list contains 1 awesome open-source projects with a total of 240 st
 - 🔀&nbsp; Fork count from GitHub
 - 📋&nbsp; Issue count from GitHub
 - ⏱️&nbsp; Last update timestamp on package manager
-- 📥&nbsp; Download count from package manager
-- 📦&nbsp; Number of dependent projects
+
+## Categories
+
 - <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/activism.png" style="display:inline;" width="13" height="13">&nbsp; Activism content
-- <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/antifascism.png" style="display:inline;" width="13" height="13">&nbsp; .... Antifascist content
+    - <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/antifascism.png" style="display:inline;" width="13" height="13">&nbsp; Antifascist content
 - <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="13" height="13">&nbsp; Programming content
-- <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/cardiogram.png" style="display:inline;" width="13" height="13">&nbsp; Health content
-- <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png" style="display:inline;" width="13" height="13">&nbsp; .... Python content
-- <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png" style="display:inline;" width="13" height="13">&nbsp; .... Linux content
+    - <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png" style="display:inline;" width="13" height="13">&nbsp; .Python content
 - <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/time-management.png" style="display:inline;" width="13" height="13">&nbsp; Productivity content
+- <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/cardiogram.png" style="display:inline;" width="13" height="13">&nbsp; Health content
 
 <br>
 
 ## Generic Digital Gardens
 
-<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<a href="#"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
 _Best-of digital gardens covering too many topics to be enclosed in one single category._
 
