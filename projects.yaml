@@ -475,7 +475,7 @@ projects:
     github_id: enkiv2/misc
     description: ''
     category: english
-  - name: The Intersect
+  - name: Robb Knight - The Intersect
     homepage: https://intersect.rknight.me/
     labels: [productivity, health, linux, programming]
     github_id: rknightuk/intersect
