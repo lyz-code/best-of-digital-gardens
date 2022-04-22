@@ -335,7 +335,7 @@ projects:
     homepage: https://pawamoy.github.io
     labels: [programming, python, science]
     github_id: pawamoy/website/
-    description: ''
+    description: 'Blog posts about Python, development tools and workflows, and more.'
     category: english
   - name: Kyle King recipes
     homepage: https://recipes.kyleking.me/
