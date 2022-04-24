@@ -301,12 +301,6 @@ projects:
     github_id: smcaleese/directory
     description: ''
     category: english
-  - name: Stephen Whitmore
-    homepage: https://github.com/hackergrrl/wisdom
-    labels: [science, productivity, arts, linux, programming]
-    github_id: hackergrrl/wisdom
-    description: ''
-    category: english
   - name: Yoshua Wuyts
     homepage: https://github.com/yoshuawuyts/notes
     labels: [arts, programming, productivity]
