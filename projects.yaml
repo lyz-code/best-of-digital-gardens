@@ -541,3 +541,9 @@ projects:
     github_id: rsarai/rsarai.github.io
     description: ''
     category: english
+  - name: Kirill Gorbachyonok
+    homepage: https://github.com/japanese-goblinn/knowledge-base
+    labels: [programming, productivity]
+    github_id: japanese-goblinn/knowledge-base
+    description: ''
+    category: english
