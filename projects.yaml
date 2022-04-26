@@ -524,7 +524,7 @@ projects:
     description: ''
     category: english
   - name: Mineral Existence
-    homepage: https://mineralexistence.com/wiki.html
+    homepage: https://mineralexistence.com/home.html
     labels: [programming, arts]
     github_id: flber/Mineral-Existence
     description: ''
