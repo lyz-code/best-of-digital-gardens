@@ -8,7 +8,7 @@ on:  # yamllint disable-line rule:truthy
   pull_request:
     types: [opened, synchronize]
   schedule:
-    - cron: 0 18 * * 4    # Every thursday at 6pm
+    - cron: 0 18 * * *    # Every thursday at 6pm
   workflow_dispatch:
 
 env:
