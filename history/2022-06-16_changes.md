@@ -2,11 +2,5 @@
 
 _Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="https://scottspence.com/posts">Scott Spence</a></b> (🥈8 ·  ⭐ 12 · 📉) - 
-
-## ➕ Added Projects
-
-_Projects that were recently added to this best-of list._
-
-- <b><a href="https://notes.whoibrar.com/">whoibrar notes</a></b> (➕) -  <code><img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/time-management.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/mehmetka/notebook">Mehmet Kanat</a></b> (🥉4 · 📉) -  <code><img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="13" height="13"></code>
 
