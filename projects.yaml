@@ -547,3 +547,9 @@ projects:
     github_id: japanese-goblinn/knowledge-base
     description: ''
     category: english
+  - name: whoibrar notes
+    homepage: https://notes.whoibrar.com/
+    labels: [productivity,programming,python]
+    github_id: ''
+    description: ''
+    category: english
