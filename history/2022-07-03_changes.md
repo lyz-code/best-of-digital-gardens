@@ -1,6 +1,6 @@
-## ➕ Added Projects
+## 📉 Trending Down
 
-_Projects that were recently added to this best-of list._
+_Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="https://www.lorien.cloud/">The Golden Forest</a></b> (🥉6 · ➕) -  <code><img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png" style="display:inline;" width="13" height="13"></code> <code>tools</code>
+- <b><a href="https://jessesquires.github.io/TIL/">Jesse Squires</a></b> (🥈11 ·  ⭐ 260 · 📉) -  <code><img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/activism.png" style="display:inline;" width="13" height="13"></code>
 

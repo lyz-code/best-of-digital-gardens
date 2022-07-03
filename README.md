@@ -52,7 +52,7 @@ This curated list contains 84 awesome digital gardens that share the source of t
 
 <details><summary><b><a href="https://wiki.nikiv.dev/">Nikita Voloboev</a></b> (🥇20 ·  ⭐ 3.5K) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/science.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/tools.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/activism.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/cardiogram.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/time-management.png" style="display:inline;" width="17" height="17"></summary>
 
-- [GitHub](https://github.com/nikitavoloboev/knowledge) (👨‍💻 36 · 🔀 380 · 📋 38 - 31% open · ⏱️ 02.07.2022)
+- [GitHub](https://github.com/nikitavoloboev/knowledge) (👨‍💻 36 · 🔀 380 · 📋 38 - 31% open · ⏱️ 03.07.2022)
 </details>
 <details><summary><b><a href="https://wiki.xxiivv.com/site/home.html">Oscean</a></b> (🥇18 ·  ⭐ 400) - </summary>
 
@@ -78,10 +78,6 @@ This curated list contains 84 awesome digital gardens that share the source of t
 
 - [GitHub](https://github.com/yoshuawuyts/notes) (👨‍💻 13 · 🔀 45 · 📋 38 - 13% open · ⏱️ 07.10.2020)
 </details>
-<details><summary><b><a href="https://jessesquires.github.io/TIL/">Jesse Squires</a></b> (🥇12 ·  ⭐ 260) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/activism.png" style="display:inline;" width="17" height="17"></summary>
-
-- [GitHub](https://github.com/jessesquires/TIL) (👨‍💻 3 · 🔀 7 · ⏱️ 29.05.2022)
-</details>
 <details><summary><b><a href="https://publish.obsidian.md/davidgasquez/README">David Gasquez</a></b> (🥇12 ·  ⭐ 87) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/cardiogram.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/time-management.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/tools.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/science.png" style="display:inline;" width="17" height="17"></summary>
 
 - [GitHub](https://github.com/davidgasquez/handbook) (👨‍💻 3 · 🔀 9 · ⏱️ 28.06.2022)
@@ -94,9 +90,13 @@ This curated list contains 84 awesome digital gardens that share the source of t
 
 - [GitHub](https://github.com/aleen42/PersonalWiki) (👨‍💻 3 · 🔀 48 · 📋 35 - 80% open · ⏱️ 26.02.2022)
 </details>
+<details><summary><b><a href="https://jessesquires.github.io/TIL/">Jesse Squires</a></b> (🥈11 ·  ⭐ 260 · 📉) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/activism.png" style="display:inline;" width="17" height="17"></summary>
+
+- [GitHub](https://github.com/jessesquires/TIL) (👨‍💻 3 · 🔀 7 · ⏱️ 29.05.2022)
+</details>
 <details><summary><b><a href="https://github.com/RichardLitt/knowledge">Richard Littauer</a></b> (🥈11 ·  ⭐ 200) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/science.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/tools.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"></summary>
 
-- [GitHub](https://github.com/RichardLitt/knowledge) (👨‍💻 5 · 🔀 16 · 📋 19 - 21% open · ⏱️ 30.06.2022)
+- [GitHub](https://github.com/RichardLitt/knowledge) (👨‍💻 5 · 🔀 17 · 📋 19 - 21% open · ⏱️ 30.06.2022)
 </details>
 <details><summary><b><a href="https://learning-notes.mistermicheels.com/about/about/">mistermicheels learning notes</a></b> (🥈11 ·  ⭐ 170) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"></summary>
 
@@ -140,11 +140,11 @@ This curated list contains 84 awesome digital gardens that share the source of t
 </details>
 <details><summary><b><a href="https://maximevaillancourt.com/notes">Maxime Vaillancourt</a></b> (🥈8 ·  ⭐ 23) - </summary>
 
-- [GitHub](https://github.com/maximevaillancourt/maximevaillancourt.com) (👨‍💻 3 · 🔀 8 · ⏱️ 24.05.2022)
+- [GitHub](https://github.com/maximevaillancourt/maximevaillancourt.com) (👨‍💻 3 · 🔀 8 · 📋 6 - 16% open · ⏱️ 24.05.2022)
 </details>
 <details><summary><b><a href="https://scottspence.com/posts">Scott Spence</a></b> (🥈8 ·  ⭐ 12) - </summary>
 
-- [GitHub](https://github.com/spences10/scottspence.com) (👨‍💻 7 · 🔀 4 · ⏱️ 02.07.2022)
+- [GitHub](https://github.com/spences10/scottspence.com) (👨‍💻 7 · 🔀 4 · ⏱️ 03.07.2022)
 </details>
 <details><summary><b><a href="https://beepb00p.xyz/exobrain/">Karlicoss Exobrain</a></b> (🥈7 ·  ⭐ 61 · 💤) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/tools.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/science.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/cardiogram.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/time-management.png" style="display:inline;" width="17" height="17"></summary>
 
@@ -198,7 +198,7 @@ This curated list contains 84 awesome digital gardens that share the source of t
 
 - [GitHub](https://github.com/flber/Mineral-Existence) (⏱️ 30.06.2022)
 </details>
-<details><summary><b><a href="https://www.lorien.cloud/">The Golden Forest</a></b> (🥉6 · ➕) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png" style="display:inline;" width="17" height="17"> tools</summary>
+<details><summary><b><a href="https://www.lorien.cloud/">The Golden Forest</a></b> (🥉6) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png" style="display:inline;" width="17" height="17"> tools</summary>
 
 - [GitHub](https://github.com/sdelrio/golden-forest) (⏱️ 30.06.2022)
 </details>
@@ -228,7 +228,7 @@ This curated list contains 84 awesome digital gardens that share the source of t
 </details>
 <details><summary><b><a href="https://rsarai.github.io/">Rebeca Sarai</a></b> (🥉5) - </summary>
 
-- [GitHub](https://github.com/rsarai/rsarai.github.io) (👨‍💻 2 · ⏱️ 29.05.2022)
+- [GitHub](https://github.com/rsarai/rsarai.github.io) (👨‍💻 2 · ⏱️ 03.07.2022)
 </details>
 <details><summary><b><a href="https://github.com/azappella/knowledge">Andrew Zappella</a></b> (🥉4 ·  ⭐ 15) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/time-management.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png" style="display:inline;" width="17" height="17"></summary>
 
