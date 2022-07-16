@@ -559,3 +559,9 @@ projects:
     github_id: 'sdelrio/golden-forest'
     description: ''
     category: english
+  - name: Walter Teng
+    homepage: https://walterteng.com/garden
+    labels: [programming, productivity, arts]
+    github_id: 'davzoku/personal-website-v1'
+    description: ''
+    category: english    
