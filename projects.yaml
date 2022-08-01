@@ -564,4 +564,10 @@ projects:
     labels: [programming, productivity, arts]
     github_id: 'davzoku/personal-website-v1'
     description: ''
-    category: english    
+    category: english
+  - name: Brian Turchyn
+    homepage: https://wiki.brianturchyn.net
+    labels: [health, productivity, programming]
+    github_id: 'b-turchyn/wiki'
+    description: ''
+    category: english
