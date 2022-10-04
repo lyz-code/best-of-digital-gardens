@@ -571,3 +571,9 @@ projects:
     github_id: 'b-turchyn/wiki'
     description: ''
     category: english
+  - name: StrikingLoo (Luciano's Digital Garden)
+    homepage: https://strikingloo.github.io
+    labels: [productivity, programming, python]
+    github_id: StrikingLoo/strikingloo.github.io
+    description: 'My personal wiki and blog'
+    category: english
