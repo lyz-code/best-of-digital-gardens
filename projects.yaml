@@ -577,3 +577,9 @@ projects:
     github_id: StrikingLoo/strikingloo.github.io
     description: 'My personal wiki and blog'
     category: english
+  - name: Pensieve
+    homepage: https://paveloom.github.io/pensieve
+    labels: [programming, linux, science]
+    github_id: paveloom/paveloom.github.io
+    description: ''
+    category: english
