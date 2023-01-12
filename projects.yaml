@@ -583,3 +583,9 @@ projects:
     github_id: paveloom/paveloom.github.io
     description: ''
     category: english
+  - name: Brandon Boswell
+    homepage: https://brandonkboswell.com/
+    labels: [programming, productivity, design, mindfulness]
+    github_id: brandonkboswell/garden
+    description: 'My Personal Blog and Digital Garden'
+    category: english
