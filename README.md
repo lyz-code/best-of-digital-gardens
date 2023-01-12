@@ -12,7 +12,6 @@
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
     <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-85-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
-    <a href="https://github.com/lyz-code/best-of-digital-gardens/actions" title="Update CI"><img src="https://github.com/lyz-code/autoimport/workflows/Update/badge.svg"></a>
 </p>
 
 This curated list contains 85 awesome digital gardens that share the source of their content as a git repository with a total of 15K stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/lyz-code/best-of-digital-gardens/issues/new/choose), submit a [pull request](https://github.com/lyz-code/best-of-digital-gardens/pulls), or directly edit the [projects.yaml](https://github.com/lyz-code/best-of-digital-gardens/edit/main/projects.yaml). Contributions are very welcome!
@@ -397,8 +396,8 @@ Or the [digital garden](https://www.reddit.com/r/DigitalGardens/)'s reddit.
 
 Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:
 
-- Open an issue by selecting one of the provided categories from the [issue page](https://github.com/lyz-code/best-of-digital-gardens/issues/new/choose) and fill in the requested information.
 - Modify the [projects.yaml](https://github.com/lyz-code/best-of-digital-gardens/blob/main/projects.yaml) with your additions or changes, and submit a pull request. This can also be done directly via the [Github UI](https://github.com/lyz-code/best-of-digital-gardens/edit/main/projects.yaml).
+- If you don't know how to do the above step open an issue by selecting one of the provided categories from the [issue page](https://github.com/lyz-code/best-of-digital-gardens/issues/new/choose) and fill in the requested information. We'll add it ourselves but it will probably take longer than if you do it yourself.
 
 If you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) repository. If you like to create your own best-of list, we recommend to follow [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
