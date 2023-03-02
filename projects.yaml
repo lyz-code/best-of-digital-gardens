@@ -575,7 +575,7 @@ projects:
     homepage: https://strikingloo.github.io
     labels: [productivity, programming, python]
     github_id: StrikingLoo/strikingloo.github.io
-    description: 'My personal wiki and blog'
+    description: ''
     category: english
   - name: Pensieve
     homepage: https://paveloom.github.io/pensieve
@@ -587,11 +587,11 @@ projects:
     homepage: https://brandonkboswell.com/
     labels: [programming, productivity, design, mindfulness]
     github_id: brandonkboswell/garden
-    description: 'My Personal Blog and Digital Garden'
+    description: ''
     category: english
   - name: Yarden Zamir - an open sourced 🧠
     homepage: https://www.yarden-zamir.com
     labels: [programming, productivity]
     github_id: Yarden-zamir/me
-    description: 'A take on open sourcing a brain'
+    description: ''
     category: english
