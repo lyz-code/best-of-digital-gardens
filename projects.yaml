@@ -127,6 +127,18 @@ projects:
     github_id: davidgasquez/handbook
     description: ''
     category: english
+  - name: Derelict garden
+    homepage: https://derelict.garden
+    labels: [programming, linux, science]
+    github_id: ''
+    description: 'Digital garden, webring and community of hackers.'
+    category: english
+  - name: Derelict garden
+    homepage: https://derelict.garden
+    labels: [programming, linux, science]
+    github_id: ''
+    description: 'Digital garden, webring and community of hackers.'
+    category: portuguese
   - name: E. Ferreira
     homepage: https://github.com/slowernews/notebook
     labels: [programming, arts]
