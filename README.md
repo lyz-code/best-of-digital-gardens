@@ -68,7 +68,7 @@ This curated list contains 91 awesome digital gardens that share the source of t
 </details>
 <details><summary><b><a href="https://www.swyx.io/ideas/?show=Essays">swyx.io ideas</a></b> (🥇16 ·  ⭐ 300) - </summary>
 
-- [GitHub](https://github.com/swyxio/swyxdotio) (👨‍💻 31 · 🔀 42 · 📋 440 - 5% open · ⏱️ 09.01.2024)
+- [GitHub](https://github.com/swyxio/swyxdotio) (👨‍💻 31 · 🔀 42 · 📋 450 - 5% open · ⏱️ 22.01.2024)
 </details>
 <details><summary><b><a href="https://lyz-code.github.io/blue-book">The Blue Book</a></b> (🥇13 ·  ⭐ 630) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/activism.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/antifascism.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/time-management.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/cardiogram.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/tools.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/science.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/feminism.png" style="display:inline;" width="17" height="17"></summary>
 
@@ -126,13 +126,13 @@ This curated list contains 91 awesome digital gardens that share the source of t
 
 - [GitHub](https://github.com/jethrokuan/braindump) (👨‍💻 6 · 🔀 86 · 📋 16 - 25% open · ⏱️ 02.12.2022)
 </details>
-<details><summary><b><a href="https://learning-notes.mistermicheels.com/about/about/">mistermicheels learning notes</a></b> (🥈9 ·  ⭐ 240 · 💤) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"></summary>
+<details><summary><b><a href="https://learning-notes.mistermicheels.com/about/about/">mistermicheels learning notes</a></b> (🥈9 ·  ⭐ 250 · 💤) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"></summary>
 
-- [GitHub](https://github.com/mistermicheels/learning-notes) (👨‍💻 2 · 🔀 48 · ⏱️ 25.06.2023)
+- [GitHub](https://github.com/mistermicheels/learning-notes) (👨‍💻 2 · 🔀 49 · ⏱️ 25.06.2023)
 </details>
 <details><summary><b><a href="https://pawamoy.github.io">pawamoy's website</a></b> (🥈9 ·  ⭐ 36) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/science.png" style="display:inline;" width="17" height="17"></summary>
 
-- [GitHub](https://github.com/pawamoy/website) (🔀 5 · 📋 4 - 25% open · ⏱️ 17.01.2024)
+- [GitHub](https://github.com/pawamoy/website) (🔀 6 · 📋 4 - 25% open · ⏱️ 17.01.2024)
 </details>
 <details><summary><b><a href="https://paul.copplest.one/knowledge/">Paul Copplestone</a></b> (🥈9 ·  ⭐ 34) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/tools.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/science.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"></summary>
 
@@ -140,7 +140,7 @@ This curated list contains 91 awesome digital gardens that share the source of t
 </details>
 <details><summary><b><a href="https://strikingloo.github.io">StrikingLoo (Luciano's Digital Garden)</a></b> (🥈9 ·  ⭐ 7) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/time-management.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png" style="display:inline;" width="17" height="17"></summary>
 
-- [GitHub](https://github.com/StrikingLoo/strikingloo.github.io) (👨‍💻 4 · 🔀 3 · ⏱️ 10.01.2024)
+- [GitHub](https://github.com/StrikingLoo/strikingloo.github.io) (👨‍💻 4 · 🔀 3 · ⏱️ 23.01.2024)
 </details>
 <details><summary><b><a href="https://paveloom.github.io/pensieve">Pensieve</a></b> (🥈9 ·  ⭐ 1) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/science.png" style="display:inline;" width="17" height="17"></summary>
 
@@ -160,7 +160,7 @@ This curated list contains 91 awesome digital gardens that share the source of t
 </details>
 <details><summary><b><a href="https://memo-dev.marc-loupias.fr/">Marc Loupias</a></b> (🥈8 ·  ⭐ 12) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png" style="display:inline;" width="17" height="17"></summary>
 
-- [GitHub](https://github.com/MarcLoupias/memo-dev) (👨‍💻 3 · 🔀 2 · ⏱️ 12.01.2024)
+- [GitHub](https://github.com/MarcLoupias/memo-dev) (👨‍💻 3 · 🔀 2 · ⏱️ 23.01.2024)
 </details>
 <details><summary><b><a href="https://wiki.brianturchyn.net">Brian Turchyn</a></b> (🥈8 ·  ⭐ 6) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/cardiogram.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/time-management.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"></summary>
 
