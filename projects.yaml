@@ -440,7 +440,7 @@ projects:
     description: ''
     category: english
   - name: seanbreckenridge exobrain
-    homepage: https://exobrain.sean.fish/
+    homepage: https://sean.fish/x/
     labels: [programming]
     github_id: seanbreckenridge/exobrain
     description: ''
