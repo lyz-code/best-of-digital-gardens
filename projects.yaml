@@ -601,6 +601,12 @@ projects:
     github_id: brandonkboswell/garden
     description: ''
     category: english
+  - name: Xinyang YU - 🥷🏻🌳🍃 Computer Science & Thinkering Garden
+    homepage: https://notes.yxy.ninja
+    labels: [programming, science, productivity, linux]
+    github_id: xy-241/CS-Notes
+    description: ''
+    category: english
   - name: Yarden Zamir - an open sourced 🧠
     homepage: https://www.yarden-zamir.com
     labels: [programming, productivity]
