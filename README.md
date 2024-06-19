@@ -52,7 +52,7 @@ This curated list contains 92 awesome digital gardens that share the source of t
 
 <details><summary><b><a href="https://wiki.xxiivv.com/site/home.html">Oscean</a></b> (🥇19 ·  ⭐ 480) - </summary>
 
-- [GitHub](https://github.com/XXIIVV/oscean) (👨‍💻 44 · 🔀 83 · 📦 7 · 📋 56 - 25% open · ⏱️ 18.06.2024)
+- [GitHub](https://github.com/XXIIVV/oscean) (👨‍💻 44 · 🔀 83 · 📦 7 · 📋 56 - 25% open · ⏱️ 19.06.2024)
 </details>
 <details><summary><b><a href="https://100r.co/site/home.html">100 Rabbits</a></b> (🥇17 ·  ⭐ 300) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/tools.png" style="display:inline;" width="17" height="17"></summary>
 
@@ -62,7 +62,7 @@ This curated list contains 92 awesome digital gardens that share the source of t
 
 - [GitHub](https://github.com/nikitavoloboev/knowledge) (👨‍💻 48 · 🔀 540 · 📋 43 - 30% open · ⏱️ 11.06.2024)
 </details>
-<details><summary><b><a href="https://til.simonwillison.net/">Simon Willison</a></b> (🥇16 ·  ⭐ 1K · 📉) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png" style="display:inline;" width="17" height="17"></summary>
+<details><summary><b><a href="https://til.simonwillison.net/">Simon Willison</a></b> (🥇16 ·  ⭐ 1K) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png" style="display:inline;" width="17" height="17"></summary>
 
 - [GitHub](https://github.com/simonw/til) (👨‍💻 16 · 🔀 81 · 📋 69 - 24% open · ⏱️ 16.06.2024)
 </details>
@@ -80,7 +80,7 @@ This curated list contains 92 awesome digital gardens that share the source of t
 </details>
 <details><summary><b><a href="https://notes.yxy.ninja">Xinyang YU - 🥷🏻🌳🍃 Computer Science & Thinkering Garden</a></b> (🥇13 ·  ⭐ 17 · 🐣) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/science.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/time-management.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png" style="display:inline;" width="17" height="17"></summary>
 
-- [GitHub](https://github.com/xy-241/CS-Notes) (👨‍💻 160 · 🔀 1 · ⏱️ 18.06.2024)
+- [GitHub](https://github.com/xy-241/CS-Notes) (👨‍💻 160 · 🔀 1 · ⏱️ 19.06.2024)
 </details>
 <details><summary><b><a href="https://github.com/yoshuawuyts/notes">Yoshua Wuyts</a></b> (🥈12 ·  ⭐ 840 · 💤) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/tools.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/time-management.png" style="display:inline;" width="17" height="17"></summary>
 
