@@ -613,3 +613,9 @@ projects:
     github_id: Yarden-zamir/me
     description: ''
     category: english
+  - name: Project Delta - one bit better
+    homepage: https://selimslab.github.io/
+    labels: [art, science, programming, philosophy, psychology, practical skills, poetry, technology]
+    github_id: selimslab/selimslab.github.io
+    description: A digital space to create, collect, and share
+    category: english
