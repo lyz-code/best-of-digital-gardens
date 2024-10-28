@@ -54,7 +54,7 @@ This curated list contains 93 awesome digital gardens that share the source of t
 
 - [GitHub](https://github.com/XXIIVV/oscean) (👨‍💻 45 · 🔀 82 · 📦 7 · 📋 57 - 26% open · ⏱️ 28.10.2024)
 </details>
-<details><summary><b><a href="https://til.simonwillison.net/">Simon Willison</a></b> (🥇18 ·  ⭐ 1.1K · 📈) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png" style="display:inline;" width="17" height="17"></summary>
+<details><summary><b><a href="https://til.simonwillison.net/">Simon Willison</a></b> (🥇18 ·  ⭐ 1.1K) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png" style="display:inline;" width="17" height="17"></summary>
 
 - [GitHub](https://github.com/simonw/til) (👨‍💻 16 · 🔀 87 · 📋 72 - 26% open · ⏱️ 28.10.2024)
 </details>
@@ -142,7 +142,7 @@ This curated list contains 93 awesome digital gardens that share the source of t
 
 - [GitHub](https://github.com/leebyron/til) (🔀 8 · ⏱️ 18.10.2024)
 </details>
-<details><summary><b><a href="https://purarue.xyz/x/">purarues exobrain</a></b> (🥈9 ·  ⭐ 17 · ➕) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png" style="display:inline;" width="17" height="17"></summary>
+<details><summary><b><a href="https://purarue.xyz/x/">purarues exobrain</a></b> (🥈9 ·  ⭐ 17) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png" style="display:inline;" width="17" height="17"></summary>
 
 - [GitHub](https://github.com/purarue/exobrain) (👨‍💻 2 · ⏱️ 28.10.2024)
 </details>
