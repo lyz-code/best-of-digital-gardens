@@ -439,10 +439,10 @@ projects:
     github_id: nkintc/nkintc.github.io
     description: ''
     category: english
-  - name: seanbreckenridge exobrain
-    homepage: https://sean.fish/x/
-    labels: [programming]
-    github_id: seanbreckenridge/exobrain
+  - name: purarues exobrain
+    homepage: https://purarue.xyz/x/
+    labels: [programming, linux]
+    github_id: purarue/exobrain
     description: ''
     category: english
   - name: mistermicheels learning notes
