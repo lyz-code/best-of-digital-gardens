@@ -607,6 +607,12 @@ projects:
     github_id: xy-241/CS-Notes
     description: ''
     category: english
+  - name: Declan Chidlow
+    homepage: https://vale.rocks
+    labels: [programming, science, productivity, arts]
+    github_id: DeclanChidlow/vale.rocks
+    description: ''
+    category: english
   - name: Yarden Zamir - an open sourced 🧠
     homepage: https://www.yarden-zamir.com
     labels: [programming, productivity]
