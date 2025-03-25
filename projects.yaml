@@ -625,3 +625,10 @@ projects:
     github_id: selimslab/selimslab.github.io
     description: A digital space to create, collect, and share
     category: english
+  - name: Gavin Arturo Gamboa 🌱☁️✨ gavart.ist
+    homepage: https://gavart.ist
+    labels: [arts, programming, technology]
+    github_id: protrolium/gavart.ist
+    description: Digital garden of a composer
+    category: english
+    
