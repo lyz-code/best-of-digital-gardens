@@ -403,11 +403,12 @@ This curated list contains 95 awesome digital gardens that share the source of t
 
 ## Related Resources
 
-* [Maggie Appleton's compilation](https://github.com/MaggieAppleton/digital-gardeners)
-* [Nikita's compilation](https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked)
-* [Richard Litt's compilation](https://github.com/RichardLitt/meta-knowledge)
-* [KasperZutterman's compilation](https://github.com/KasperZutterman/Second-Brain)
-* [Webring](https://webring.xxiivv.com/)
+- [Maggie Appleton's compilation](https://github.com/MaggieAppleton/digital-gardeners)
+- [Nikita's compilation](https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked)
+- [Richard Litt's compilation](https://github.com/RichardLitt/meta-knowledge)
+- [KasperZutterman's compilation](https://github.com/KasperZutterman/Second-Brain)
+- [Webring](https://webring.xxiivv.com/)
+- [Obsidian Garden Gallery](https://jsifalda.link/Op0L31m)
 
 Or the [digital garden](https://www.reddit.com/r/DigitalGardens/)'s reddit.
 
