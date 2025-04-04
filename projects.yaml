@@ -25,14 +25,12 @@ categories:
     subtitle: ''
 
 labels:
-
   - label: activism
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/activism.png
   - label: antifascism
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/antifascism.png
   - label: feminism
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/feminism.png
-
 
   - label: programming
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png
@@ -54,10 +52,15 @@ labels:
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/science.png
 
 projects:
+  - name: Craft Engineer
+    homepage: https://craftengineer.com
+    labels: [programming, productivity, leadership, team management]
+    github_id: ''
+    description: 'Digital garden focused on engineering management, software development, and personal growth'
+    category: english
   - name: The Blue Book
     homepage: https://lyz-code.github.io/blue-book
-    labels: [activism, antifascism, productivity, health, programming, python, linux,
-      arts, science, feminism]
+    labels: [activism, antifascism, productivity, health, programming, python, linux, arts, science, feminism]
     github_id: lyz-code/blue-book
     description: ''
     category: english
@@ -561,13 +564,13 @@ projects:
     category: english
   - name: whoibrar notes
     homepage: https://notes.whoibrar.com/
-    labels: [productivity,programming,python]
+    labels: [productivity, programming, python]
     github_id: ''
     description: ''
     category: english
   - name: The Golden Forest
     homepage: https://www.lorien.cloud/
-    labels: [linux,tools]
+    labels: [linux, tools]
     github_id: 'sdelrio/golden-forest'
     description: ''
     category: english
@@ -631,4 +634,3 @@ projects:
     github_id: protrolium/gavart.ist
     description: Digital garden of a composer
     category: english
-    
