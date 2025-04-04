@@ -408,7 +408,7 @@ This curated list contains 95 awesome digital gardens that share the source of t
 - [Richard Litt's compilation](https://github.com/RichardLitt/meta-knowledge)
 - [KasperZutterman's compilation](https://github.com/KasperZutterman/Second-Brain)
 - [Webring](https://webring.xxiivv.com/)
-- [Obsidian Garden Gallery](https://jsifalda.link/Op0L31m)
+- [Obsidian Garden Gallery](https://obsidian-gallery.craftengineer.com/)
 
 Or the [digital garden](https://www.reddit.com/r/DigitalGardens/)'s reddit.
 
