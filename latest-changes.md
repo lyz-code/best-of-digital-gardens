@@ -1,12 +1,1 @@
-## 📉 Trending Down
-
-_Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
-
-- <b><a href="https://pawamoy.github.io">pawamoy's website</a></b> (🥈10 ·  ⭐ 53 · 📉) -  <code><img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/science.png" style="display:inline;" width="13" height="13"></code>
-
-## ➕ Added Projects
-
-_Projects that were recently added to this best-of list._
-
-- <b><a href="https://craftengineer.com">Craft Engineer</a></b> (🥉1 · ➕) - Digital garden focused on engineering management, software development, and personal growth. <code><img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/time-management.png" style="display:inline;" width="13" height="13"></code> <code>leadership</code> <code>team management</code>
-
+Nothing changed from last update.
