@@ -51,6 +51,9 @@ labels:
   - label: science
     image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/science.png
 
+  - label: qa
+    image: https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/qa.png
+
 projects:
   - name: Craft Engineer
     homepage: https://craftengineer.com
