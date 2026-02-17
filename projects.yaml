@@ -643,3 +643,9 @@ projects:
     github_id: GabriOliv/garden
     description: ''
     category: portuguese
+  - name: Digital Swamp - pa0
+    homepage: https://paologabriel.com/
+    labels: [programming, science, art]
+    github_id: palol/digital-garden
+    description: 'Digital garden from a research scientist'
+    category: english
