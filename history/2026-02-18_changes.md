@@ -1,6 +1,1 @@
-## ➕ Added Projects
-
-_Projects that were recently added to this best-of list._
-
-- <b><a href="https://paologabriel.com/">Digital Swamp - pa0</a></b> (🥉1 · ➕) - Digital garden from a research scientist. <code><img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/science.png" style="display:inline;" width="13" height="13"></code> <code>art</code>
-
+Nothing changed from last update.
