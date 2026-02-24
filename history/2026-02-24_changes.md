@@ -1,18 +1,1 @@
-## 📈 Trending Up
-
-_Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
-
-- <b><a href="https://github.com/slowernews/notebook">E. Ferreira</a></b> (🥉5 ·  ⭐ 40 · 📈) -  <code><img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/tools.png" style="display:inline;" width="13" height="13"></code>
-
-## 📉 Trending Down
-
-_Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
-
-- <b><a href="https://carlosdelfino.github.io">Carlos Delfino</a></b> (🥇7 ·  ⭐ 2 · 📉) - 
-
-## ➕ Added Projects
-
-_Projects that were recently added to this best-of list._
-
-- <b><a href="https://hermitage.utsob.me/">Hermitage</a></b> (🥈9 ·  ⭐ 71 · ➕) - A digital garden to share budding and blooming thoughts. <code><img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="13" height="13"></code> <code>art</code> <code>philosophy</code>
-
+Nothing changed from last update.

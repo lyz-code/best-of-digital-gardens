@@ -53,7 +53,7 @@ This curated list contains 99 awesome digital gardens that share the source of t
 
 <details><summary><b><a href="https://wiki.xxiivv.com/site/home.html">Oscean</a></b> (🥇19 ·  ⭐ 540) - </summary>
 
-- [GitHub](https://github.com/XXIIVV/oscean) (👨‍💻 50 · 🔀 79 · 📦 7 · 📋 61 - 11% open · ⏱️ 23.02.2026)
+- [GitHub](https://github.com/XXIIVV/oscean) (👨‍💻 50 · 🔀 79 · 📦 7 · 📋 61 - 11% open · ⏱️ 24.02.2026)
 </details>
 <details><summary><b><a href="https://til.simonwillison.net/">Simon Willison</a></b> (🥇17 ·  ⭐ 1.4K) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png" style="display:inline;" width="17" height="17"></summary>
 
@@ -127,7 +127,7 @@ This curated list contains 99 awesome digital gardens that share the source of t
 
 - [GitHub](https://github.com/mistermicheels/learning-notes) (👨‍💻 2 · 🔀 47 · ⏱️ 11.12.2025)
 </details>
-<details><summary><b><a href="https://hermitage.utsob.me/">Hermitage</a></b> (🥈9 ·  ⭐ 71 · ➕) - A digital garden to share budding and blooming thoughts. <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> art philosophy</summary>
+<details><summary><b><a href="https://hermitage.utsob.me/">Hermitage</a></b> (🥈9 ·  ⭐ 71) - A digital garden to share budding and blooming thoughts. <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> art philosophy</summary>
 
 - [GitHub](https://github.com/uroybd/topobon) (👨‍💻 9 · 🔀 16 · ⏱️ 23.02.2026)
 </details>
@@ -215,7 +215,7 @@ This curated list contains 99 awesome digital gardens that share the source of t
 
 - [GitHub](https://github.com/rknightuk/intersect) (🔀 2 · ⏱️ 17.01.2024)
 </details>
-<details><summary><b><a href="https://github.com/slowernews/notebook">E. Ferreira</a></b> (🥉5 ·  ⭐ 40 · 📈) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/tools.png" style="display:inline;" width="17" height="17"></summary>
+<details><summary><b><a href="https://github.com/slowernews/notebook">E. Ferreira</a></b> (🥉5 ·  ⭐ 40) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/tools.png" style="display:inline;" width="17" height="17"></summary>
 
 - [GitHub](https://github.com/slowernews/notebook) (🔀 1 · ⏱️ 26.11.2025)
 </details>
@@ -388,7 +388,7 @@ This curated list contains 99 awesome digital gardens that share the source of t
 
 <a href="#"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://carlosdelfino.github.io">Carlos Delfino</a></b> (🥇7 ·  ⭐ 2 · 📉) - </summary>
+<details><summary><b><a href="https://carlosdelfino.github.io">Carlos Delfino</a></b> (🥇7 ·  ⭐ 2) - </summary>
 
 - [GitHub](https://github.com/carlosdelfino/carlosdelfino.github.com) (👨‍💻 20 · ⏱️ 14.02.2026)
 </details>
