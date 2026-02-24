@@ -649,3 +649,9 @@ projects:
     github_id: palol/digital-garden
     description: 'Digital garden from a research scientist'
     category: english
+  - name: Hermitage
+    homepage: https://hermitage.utsob.me/
+    labels: [programming, art, philosophy]
+    github_id: uroybd/topobon
+    description: 'A digital garden to share budding and blooming thoughts'
+    category: english
