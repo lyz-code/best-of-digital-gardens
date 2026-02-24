@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-98-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-99-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/lyz-code/best-of-digital-gardens/actions" title="Update CI"><img src="https://github.com/lyz-code/autoimport/workflows/Update/badge.svg"></a>
 </p>
 
-This curated list contains 98 awesome digital gardens that share the source of their content as a git repository with a total of 23K stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/lyz-code/best-of-digital-gardens/issues/new/choose), submit a [pull request](https://github.com/lyz-code/best-of-digital-gardens/pulls), or directly edit the [projects.yaml](https://github.com/lyz-code/best-of-digital-gardens/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 99 awesome digital gardens that share the source of their content as a git repository with a total of 23K stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/lyz-code/best-of-digital-gardens/issues/new/choose), submit a [pull request](https://github.com/lyz-code/best-of-digital-gardens/pulls), or directly edit the [projects.yaml](https://github.com/lyz-code/best-of-digital-gardens/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -101,7 +101,7 @@ This curated list contains 98 awesome digital gardens that share the source of t
 </details>
 <details><summary><b><a href="https://scottspence.com/posts">Scott Spence</a></b> (🥈11 ·  ⭐ 58) - </summary>
 
-- [GitHub](https://github.com/spences10/scottspence.com) (👨‍💻 11 · 🔀 11 · 📋 10 - 20% open · ⏱️ 22.02.2026)
+- [GitHub](https://github.com/spences10/scottspence.com) (👨‍💻 11 · 🔀 11 · 📋 11 - 27% open · ⏱️ 24.02.2026)
 </details>
 <details><summary><b><a href="https://selimslab.github.io/">Project Delta - one bit better</a></b> (🥈11 ·  ⭐ 11) - A digital space to create, collect, and share. art <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/science.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> philosophy psychology practical skills poetry technology</summary>
 
@@ -126,6 +126,10 @@ This curated list contains 98 awesome digital gardens that share the source of t
 <details><summary><b><a href="https://learning-notes.mistermicheels.com/about/about/">mistermicheels learning notes</a></b> (🥈9 ·  ⭐ 290) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"></summary>
 
 - [GitHub](https://github.com/mistermicheels/learning-notes) (👨‍💻 2 · 🔀 47 · ⏱️ 11.12.2025)
+</details>
+<details><summary><b><a href="https://hermitage.utsob.me/">Hermitage</a></b> (🥈9 ·  ⭐ 71 · ➕) - A digital garden to share budding and blooming thoughts. <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> art philosophy</summary>
+
+- [GitHub](https://github.com/uroybd/topobon) (👨‍💻 9 · 🔀 16 · ⏱️ 23.02.2026)
 </details>
 <details><summary><b><a href="https://leebyron.com/til/">Lee Byron</a></b> (🥈9 ·  ⭐ 61 · 💤) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png" style="display:inline;" width="17" height="17"></summary>
 
@@ -211,6 +215,10 @@ This curated list contains 98 awesome digital gardens that share the source of t
 
 - [GitHub](https://github.com/rknightuk/intersect) (🔀 2 · ⏱️ 17.01.2024)
 </details>
+<details><summary><b><a href="https://github.com/slowernews/notebook">E. Ferreira</a></b> (🥉5 ·  ⭐ 40 · 📈) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/tools.png" style="display:inline;" width="17" height="17"></summary>
+
+- [GitHub](https://github.com/slowernews/notebook) (🔀 1 · ⏱️ 26.11.2025)
+</details>
 <details><summary><b><a href="https://irosyadi.gitbook.io/irosyadi/">Imron Rosyadi</a></b> (🥉5 ·  ⭐ 37 · 💤) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"></summary>
 
 - [GitHub](https://github.com/irosyadi/gitbook) (👨‍💻 3 · 🔀 16 · ⏱️ 15.07.2024)
@@ -230,10 +238,6 @@ This curated list contains 98 awesome digital gardens that share the source of t
 <details><summary><b><a href="https://walterteng.com/garden">Walter Teng</a></b> (🥉5 ·  ⭐ 4 · 💤) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/time-management.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/tools.png" style="display:inline;" width="17" height="17"></summary>
 
 - [GitHub](https://github.com/davzoku/personal-website-v1) (👨‍💻 2 · 🔀 2 · ⏱️ 24.04.2025)
-</details>
-<details><summary><b><a href="https://github.com/slowernews/notebook">E. Ferreira</a></b> (🥉4 ·  ⭐ 40) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/tools.png" style="display:inline;" width="17" height="17"></summary>
-
-- [GitHub](https://github.com/slowernews/notebook) (🔀 1 · ⏱️ 26.11.2025)
 </details>
 <details><summary><b><a href="https://www.aizatto.com/">Aizat Faiz</a></b> (🥉4 ·  ⭐ 23 · 💤) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"></summary>
 
@@ -384,7 +388,7 @@ This curated list contains 98 awesome digital gardens that share the source of t
 
 <a href="#"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://carlosdelfino.github.io">Carlos Delfino</a></b> (🥇8 ·  ⭐ 2) - </summary>
+<details><summary><b><a href="https://carlosdelfino.github.io">Carlos Delfino</a></b> (🥇7 ·  ⭐ 2 · 📉) - </summary>
 
 - [GitHub](https://github.com/carlosdelfino/carlosdelfino.github.com) (👨‍💻 20 · ⏱️ 14.02.2026)
 </details>
