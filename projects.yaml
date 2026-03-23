@@ -271,6 +271,12 @@ projects:
     github_id: obahareth/knowledge
     description: ''
     category: english
+  - name: Paweł Cisło
+    homepage: https://pawelcislo.com/knowledge/digital-garden/
+    labels: [programming, python, linux, productivity, health, arts]
+    github_id: pyxelr/pawelcislo.com
+    description: 'Digital garden covering software tools, MLOps, music production, health, and more'
+    category: english
   - name: Piotr Stojanow
     homepage: https://wiki.stojanow.com/
     labels: [science, arts, activism, productivity]
