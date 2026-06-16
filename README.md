@@ -53,11 +53,11 @@ This curated list contains 100 awesome digital gardens that share the source of 
 
 <details><summary><b><a href="https://wiki.xxiivv.com/site/home.html">Oscean</a></b> (🥇19 ·  ⭐ 560) - </summary>
 
-- [GitHub](https://github.com/XXIIVV/oscean) (👨‍💻 50 · 🔀 79 · 📦 7 · 📋 61 - 9% open · ⏱️ 15.06.2026)
+- [GitHub](https://github.com/XXIIVV/oscean) (👨‍💻 50 · 🔀 79 · 📦 7 · 📋 61 - 9% open · ⏱️ 16.06.2026)
 </details>
 <details><summary><b><a href="https://til.simonwillison.net/">Simon Willison</a></b> (🥇17 ·  ⭐ 1.4K) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/linux.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png" style="display:inline;" width="17" height="17"></summary>
 
-- [GitHub](https://github.com/simonw/til) (👨‍💻 16 · 🔀 120 · 📋 81 - 32% open · ⏱️ 09.06.2026)
+- [GitHub](https://github.com/simonw/til) (👨‍💻 16 · 🔀 120 · 📋 81 - 32% open · ⏱️ 16.06.2026)
 </details>
 <details><summary><b><a href="https://www.swyx.io/ideas/?show=Essays">swyx.io ideas</a></b> (🥇16 ·  ⭐ 410) - </summary>
 
@@ -93,7 +93,7 @@ This curated list contains 100 awesome digital gardens that share the source of 
 </details>
 <details><summary><b><a href="https://scottspence.com/posts">Scott Spence</a></b> (🥈11 ·  ⭐ 59) - </summary>
 
-- [GitHub](https://github.com/spences10/scottspence.com) (👨‍💻 11 · 🔀 10 · 📋 12 - 25% open · ⏱️ 15.06.2026)
+- [GitHub](https://github.com/spences10/scottspence.com) (👨‍💻 11 · 🔀 10 · 📋 12 - 25% open · ⏱️ 16.06.2026)
 </details>
 <details><summary><b><a href="https://jessesquires.github.io/TIL/">Jesse Squires</a></b> (🥈10 ·  ⭐ 300) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/python.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/activism.png" style="display:inline;" width="17" height="17"></summary>
 
