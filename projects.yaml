@@ -661,3 +661,9 @@ projects:
     github_id: uroybd/topobon
     description: 'A digital garden to share budding and blooming thoughts'
     category: english
+  - name: brainfck.org
+    homepage: https://brainfck.org
+    labels: [programming, philosophy, productivity, science]
+    github_id: dorneanu/roam
+    description: 'Personal digital garden on Stoicism, AI, org-mode, and book notes'
+    category: english
