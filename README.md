@@ -324,7 +324,7 @@ This curated list contains 100 awesome digital gardens that share the source of 
 
 - [GitHub]()
 </details>
-<details><summary><b><a href="https://brainfck.org">brainfck.org</a></b> (➕) - Personal digital garden on Stoicism, AI, org-mode, and book notes. <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> philosophy <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/time-management.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/science.png" style="display:inline;" width="17" height="17"></summary>
+<details><summary><b><a href="https://brainfck.org">brainfck.org</a></b> - Personal digital garden on Stoicism, AI, org-mode, and book notes. <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"> philosophy <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/time-management.png" style="display:inline;" width="17" height="17"> <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/science.png" style="display:inline;" width="17" height="17"></summary>
 
 - [GitHub]() (👨‍💻 2)
 </details>
