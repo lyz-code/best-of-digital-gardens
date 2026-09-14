@@ -265,6 +265,13 @@ projects:
     github_id: hzlmn/week-learning
     description: ''
     category: english
+  - name: Oliver Newth
+    homepage: https://garden.n3wth.com
+    labels: [programming, productivity]
+    github_id: ''
+    docs-url: https://garden.n3wth.com
+    description: "Oliver Newth's digital garden and notes"
+    category: english
   - name: Omar Bahareth
     homepage: https://wiki.omar.engineer/
     labels: [programming, science]
