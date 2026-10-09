@@ -667,3 +667,9 @@ projects:
     github_id: dorneanu/roam
     description: 'Personal digital garden on Stoicism, AI, org-mode, and book notes'
     category: english
+  - name: Podcast Wiki
+    homepage: https://hagaihen.github.io/podcast-wiki/
+    labels: [programming, productivity]
+    github_id: HagaiHen/podcast-wiki
+    description: 'Topics learned from AI, startup and investing podcasts, synthesized across episodes by an LLM, every claim cited'
+    category: english
