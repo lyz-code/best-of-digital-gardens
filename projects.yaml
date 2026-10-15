@@ -667,3 +667,9 @@ projects:
     github_id: dorneanu/roam
     description: 'Personal digital garden on Stoicism, AI, org-mode, and book notes'
     category: english
+  - name: BJJGraph
+    homepage: https://bjjgraph.org
+    labels: [health, science]
+    github_id: diogoseca/bjjgraph
+    description: 'Brazilian jiu-jitsu mapped as a knowledge graph, with flashcards and a roll game'
+    category: english
