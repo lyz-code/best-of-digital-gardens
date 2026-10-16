@@ -289,7 +289,7 @@ This curated list contains 100 awesome digital gardens that share the source of 
 
 - [GitHub]()
 </details>
-<details><summary><b><a href="https://irosyadi.gitbook.io/irosyadi/">Imron Rosyadi</a></b> (📉) -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"></summary>
+<details><summary><b><a href="https://irosyadi.gitbook.io/irosyadi/">Imron Rosyadi</a></b> -  <img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="17" height="17"></summary>
 
 - [GitHub]() (👨‍💻 3)
 </details>

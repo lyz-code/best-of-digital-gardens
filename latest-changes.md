@@ -1,6 +1,1 @@
-## 📉 Trending Down
-
-_Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
-
-- <b><a href="https://irosyadi.gitbook.io/irosyadi/">Imron Rosyadi</a></b> (📉) -  <code><img src="https://raw.githubusercontent.com/lyz-code/best-of-digital-gardens/main/.icons/programming.png" style="display:inline;" width="13" height="13"></code>
-
+Nothing changed from last update.
