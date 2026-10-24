@@ -667,3 +667,9 @@ projects:
     github_id: dorneanu/roam
     description: 'Personal digital garden on Stoicism, AI, org-mode, and book notes'
     category: english
+  - name: trip2g
+    homepage: https://trip2g.com
+    labels: [programming, productivity]
+    github_id: trip2g/trip2g
+    description: 'A garden about building gardens: docs for a self-hosted Obsidian publisher, published from an Obsidian vault with itself'
+    category: english
